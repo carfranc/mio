@@ -1,0 +1,7 @@
+create database test;
+create table persona
+(
+  id_persona int not null,
+  nombre varchar(20),
+  cedula varchar(10)
+)
