@@ -1,3 +1,5 @@
+-- Agregando cambios
+
 create table documento
 (
 	id_doc int not null,
