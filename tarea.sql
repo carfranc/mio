@@ -1,5 +1,6 @@
 -- Agregando cambios
 -- se pudo?
+--lo logre
 create table documento
 (
 	id_doc int not null,
