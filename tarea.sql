@@ -25,3 +25,10 @@ create table listas3
 )
 insert into listas3 values(12, 'repositorio', 'urgente')
 select * from lista3
+
+create table documento54
+(
+	id_doc int not null,
+	nombre varchar(20),
+	licencia varchar(10)
+)
