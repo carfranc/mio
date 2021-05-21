@@ -1,5 +1,5 @@
 -- Agregando cambios
-
+-- se puede
 create table documento
 (
 	id_doc int not null,
