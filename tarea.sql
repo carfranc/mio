@@ -1,5 +1,5 @@
 -- Agregando cambios
--- se puede
+-- se pudo?
 create table documento
 (
 	id_doc int not null,
